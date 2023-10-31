@@ -1,0 +1,14 @@
+D:\training content\csharptraining\project1\bin\Debug\net6.0\Assign5_s.exe
+D:\training content\csharptraining\project1\bin\Debug\net6.0\Assign5_s.deps.json
+D:\training content\csharptraining\project1\bin\Debug\net6.0\Assign5_s.runtimeconfig.json
+D:\training content\csharptraining\project1\bin\Debug\net6.0\Assign5_s.dll
+D:\training content\csharptraining\project1\bin\Debug\net6.0\Assign5_s.pdb
+D:\training content\csharptraining\project1\obj\Debug\net6.0\Assign5_s.GeneratedMSBuildEditorConfig.editorconfig
+D:\training content\csharptraining\project1\obj\Debug\net6.0\Assign5_s.AssemblyInfoInputs.cache
+D:\training content\csharptraining\project1\obj\Debug\net6.0\Assign5_s.AssemblyInfo.cs
+D:\training content\csharptraining\project1\obj\Debug\net6.0\Assign5_s.csproj.CoreCompileInputs.cache
+D:\training content\csharptraining\project1\obj\Debug\net6.0\Assign5_s.dll
+D:\training content\csharptraining\project1\obj\Debug\net6.0\refint\Assign5_s.dll
+D:\training content\csharptraining\project1\obj\Debug\net6.0\Assign5_s.pdb
+D:\training content\csharptraining\project1\obj\Debug\net6.0\Assign5_s.genruntimeconfig.cache
+D:\training content\csharptraining\project1\obj\Debug\net6.0\ref\Assign5_s.dll
