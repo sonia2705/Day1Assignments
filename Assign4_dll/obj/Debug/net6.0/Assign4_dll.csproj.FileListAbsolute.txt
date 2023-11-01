@@ -1,0 +1,11 @@
+D:\training content\csharptraining\Assign4_dll\bin\Debug\net6.0\Assign4_dll.deps.json
+D:\training content\csharptraining\Assign4_dll\bin\Debug\net6.0\Assign4_dll.dll
+D:\training content\csharptraining\Assign4_dll\bin\Debug\net6.0\Assign4_dll.pdb
+D:\training content\csharptraining\Assign4_dll\obj\Debug\net6.0\Assign4_dll.GeneratedMSBuildEditorConfig.editorconfig
+D:\training content\csharptraining\Assign4_dll\obj\Debug\net6.0\Assign4_dll.AssemblyInfoInputs.cache
+D:\training content\csharptraining\Assign4_dll\obj\Debug\net6.0\Assign4_dll.AssemblyInfo.cs
+D:\training content\csharptraining\Assign4_dll\obj\Debug\net6.0\Assign4_dll.csproj.CoreCompileInputs.cache
+D:\training content\csharptraining\Assign4_dll\obj\Debug\net6.0\Assign4_dll.dll
+D:\training content\csharptraining\Assign4_dll\obj\Debug\net6.0\refint\Assign4_dll.dll
+D:\training content\csharptraining\Assign4_dll\obj\Debug\net6.0\Assign4_dll.pdb
+D:\training content\csharptraining\Assign4_dll\obj\Debug\net6.0\ref\Assign4_dll.dll
