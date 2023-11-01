@@ -1,0 +1,14 @@
+D:\training content\csharptraining\assignment1_s\obj\Debug\net6.0\assignment1_s.GeneratedMSBuildEditorConfig.editorconfig
+D:\training content\csharptraining\assignment1_s\obj\Debug\net6.0\assignment1_s.AssemblyInfoInputs.cache
+D:\training content\csharptraining\assignment1_s\obj\Debug\net6.0\assignment1_s.AssemblyInfo.cs
+D:\training content\csharptraining\assignment1_s\obj\Debug\net6.0\assignment1_s.csproj.CoreCompileInputs.cache
+D:\training content\csharptraining\assignment1_s\bin\Debug\net6.0\assignment1_s.exe
+D:\training content\csharptraining\assignment1_s\bin\Debug\net6.0\assignment1_s.deps.json
+D:\training content\csharptraining\assignment1_s\bin\Debug\net6.0\assignment1_s.runtimeconfig.json
+D:\training content\csharptraining\assignment1_s\bin\Debug\net6.0\assignment1_s.dll
+D:\training content\csharptraining\assignment1_s\bin\Debug\net6.0\assignment1_s.pdb
+D:\training content\csharptraining\assignment1_s\obj\Debug\net6.0\assignment1_s.dll
+D:\training content\csharptraining\assignment1_s\obj\Debug\net6.0\refint\assignment1_s.dll
+D:\training content\csharptraining\assignment1_s\obj\Debug\net6.0\assignment1_s.pdb
+D:\training content\csharptraining\assignment1_s\obj\Debug\net6.0\assignment1_s.genruntimeconfig.cache
+D:\training content\csharptraining\assignment1_s\obj\Debug\net6.0\ref\assignment1_s.dll
